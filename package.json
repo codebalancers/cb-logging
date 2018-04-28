@@ -37,8 +37,8 @@
   "files": [
     "dist"
   ],
-  "main": "dist/index.d.ts",
-  "typings": "dist/index.d.ts",
+  "main": "index.d.ts",
+  "typings": "index.d.ts",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^22.2.3",
