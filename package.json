@@ -1,8 +1,7 @@
 {
   "name": "cb-logging",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Logger library written in Typescript",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codebalancers/cb-logging.git"
@@ -38,6 +37,8 @@
   "files": [
     "dist"
   ],
+  "main": "dist/index.ts",
+  "typings": "dist/index.ts",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^22.2.3",
