@@ -1,6 +1,6 @@
 {
   "name": "cb-logging",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Logger library written in Typescript",
   "repository": {
     "type": "git",
