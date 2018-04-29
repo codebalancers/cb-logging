@@ -37,7 +37,7 @@
   "files": [
     "cb-logging"
   ],
-  "main": "cb-logging/index.d.ts",
+  "main": "cb-logging/index.js",
   "typings": "cb-logging/index.d.ts",
   "dependencies": {},
   "devDependencies": {
