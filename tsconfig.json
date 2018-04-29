@@ -2,7 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "moduleResolution": "node",
-    "outDir": "./dist",
+    "outDir": "./cb-logging",
     "noImplicitAny": true,
     "declaration": true,
     "module": "es2015",

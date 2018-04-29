@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/codebalancers/cb-logging",
   "scripts": {
-    "clean": "rm -rf dists/",
+    "clean": "rm -rf cb-logging/",
     "compile": "tsc",
     "lint": "tslint --project tslint.json src/**/*.ts",
     "test": "jest",
@@ -37,8 +37,8 @@
   "files": [
     "dist"
   ],
-  "main": "index.d.ts",
-  "typings": "index.d.ts",
+  "main": "cb-logging/index.d.ts",
+  "typings": "/cb-loggingindex.d.ts",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^22.2.3",
