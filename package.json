@@ -1,5 +1,5 @@
 {
-  "name": "@codebalancers/cb-logging",
+  "name": "@codebalancers/logging",
   "version": "1.0.8",
   "description": "Logger library written in Typescript",
   "repository": {
