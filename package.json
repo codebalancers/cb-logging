@@ -1,6 +1,6 @@
 {
   "name": "@codebalancers/logging",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Logger library written in Typescript",
   "repository": {
     "type": "git",
